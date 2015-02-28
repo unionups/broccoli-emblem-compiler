@@ -23,7 +23,7 @@
   "dependencies": {
     "broccoli-filter": "^0.1.10",
     "ember-template-compiler": "^1.9.0-alpha",
-    "emblem": "machty/emblem.js"
+    "emblem": "0.3.18"
   },
   "devDependencies": {},
   "optionalDependencies": {}
